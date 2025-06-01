@@ -5,7 +5,7 @@
 - 📫 How to reach me : You can contact me via GitHub messages.
 - 😄 Pronouns: She/Her.
 - 🚀 I'm passionate about building scalable backend systems and improving my coding skills every day.
-- Languages: Java | Tools: Maven | IDE : NetBeans 
+- 😉 Languages: Java | Tools: Maven | IDE : NetBeans 
 
 <!---
 mary2lil/mary2lil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
