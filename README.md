@@ -50,9 +50,10 @@
 ###
 
 <div align="left">
-<a href="https://t.me/mazy211" target="_blank">
+<a href="https://t.me/mary2lil" target="_blank">
   <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
 </a>
+  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrymtyart01@gmail.com)  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maryam-jehad-04bb33368?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
