@@ -24,7 +24,7 @@
 
 ###
 
-<h2 align="left">My stats  :</h2>
+<h2 align="left">My stats  </h2>
 
 ###
 
@@ -35,7 +35,7 @@
 
 ###
 
-<h2 align="left">Visitors :</h2>
+<h2 align="left">Visitors </h2>
 
 ###
 
